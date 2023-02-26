@@ -85,5 +85,3 @@
 ![Untitled](https://github.com/OFox213/QuickShot/blob/main/img/Untitled%204.png)
 
 그 외의 각종 부가 설정은 퀵샷 프로그램에서 진행해주세요.
-
-다운로드(클릭)
