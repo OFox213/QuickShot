@@ -21,7 +21,7 @@
 
 ---
 
-# 저가 이용하는 방법
+#유유저가 이용하는 방법
 
 [https://www.youtube.com/watch?v=XBkUst3B1CM&ab_channel=StudioDev](https://www.youtube.com/watch?v=XBkUst3B1CM&ab_channel=StudioDev)
 
