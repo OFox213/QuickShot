@@ -21,7 +21,7 @@
 
 ---
 
-# 유저가 이용하는 방법
+#유유저가 이용하는 방법
 
 [https://www.youtube.com/watch?v=XBkUst3B1CM&ab_channel=StudioDev](https://www.youtube.com/watch?v=XBkUst3B1CM&ab_channel=StudioDev)
 
@@ -63,8 +63,8 @@
 ![화면 캡처 2023-02-22 004014.png](https://github.com/OFox213/QuickShot/blob/main/img/%25ED%2599%2594%25EB%25A9%25B4_%25EC%25BA%25A1%25EC%25B2%2598_2023-02-22_004014.png?raw=true)
 
 1. 필터 목록에서 ‘필터 추가’ 버튼을 눌러 
-2. Screenshot Filter (플러그인 추가가 필요합니다) 또는 이외의 URL 으로 캡처 데이터를 전송할 수 있는 플러그인을 선택합니다.
-목록에서 ScreenshotFilter 가 보이지 않는 경우 [이곳(클릭)](https://github.com/synap5e/obs-screenshot-plugin)에서 플러그인 파일을 다운로드 받아 적용해주세요.
+2. 개발자가 권장하는 플러그인으로는 Screenshot Filter (플러그인 추가가 필요합니다) 또는 이외의 URL 으로 캡처 데이터를 전송할 수 있는 플러그인을 선택합니다.
+목록에서 ScreenshotFilter 가 보이지 않는 경우 [이곳(클릭)](https://github.com/synap5e/obs-screenshot-plugin/releases/tag/1.5.2)에서 플러그인 파일을 다운로드 받아 적용해주세요.
 
     
 ![화면 캡처 2023-02-22 004336.png](https://github.com/OFox213/QuickShot/blob/main/img/%25ED%2599%2594%25EB%25A9%25B4_%25EC%25BA%25A1%25EC%25B2%2598_2023-02-22_004336.png)
