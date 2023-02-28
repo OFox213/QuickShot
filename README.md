@@ -12,7 +12,7 @@
 추후 개별적인 관리 기능이 [AmuseMap(어뮤즈맵)](https://www.notion.so/QuickShot-075bd55b42874f9eaad3af1d5696d8d4) 에 추가될 예정이므로 오락실 등록까지 하면 좋습니다.
 
 
-[이곳을 클릭하여 설치 프로그램 다운로드](https://github.com/OFox213/QuickShot/releases/download/Release/SetupQuickshot1000.msi)
+[이곳을 클릭하여 설치 프로그램 다운로드](https://github.com/OFox213/QuickShot/releases/download/Release/SetupQuickshot1001.msi)
 
 ###
     ✅ VirusTotal 검사 결과 - 문제 없음
